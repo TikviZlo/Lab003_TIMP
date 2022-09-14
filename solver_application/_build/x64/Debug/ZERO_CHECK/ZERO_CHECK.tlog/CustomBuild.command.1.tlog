@@ -1,0 +1,10 @@
+^C:\USERS\INNA2\ONEDRIVE\ДОКУМЕНТЫ\ГИТПРОЕКТЫ\LAB003_TIMP\SOLVER_APPLICATION\_BUILD\CMAKEFILES\3B4D999F3F8023F988DD0F869998F378\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_application -BC:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_application/_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_application/_build/solver_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

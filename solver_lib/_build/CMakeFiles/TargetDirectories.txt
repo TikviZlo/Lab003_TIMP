@@ -1,0 +1,3 @@
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_lib/_build/CMakeFiles/solver.dir
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_lib/_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/solver_lib/_build/CMakeFiles/ZERO_CHECK.dir

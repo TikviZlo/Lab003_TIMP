@@ -1,0 +1,3 @@
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/hello_world_application/_build/CMakeFiles/formatter.dir
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/hello_world_application/_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/hello_world_application/_build/CMakeFiles/ZERO_CHECK.dir

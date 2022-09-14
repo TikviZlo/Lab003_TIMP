@@ -1,0 +1,10 @@
+^C:\USERS\INNA2\ONEDRIVE\ДОКУМЕНТЫ\ГИТПРОЕКТЫ\LAB003_TIMP\FORMATTER_EX_LIB\_BUILD\CMAKEFILES\A19C94F650BBD96464E6353C0BE80CCD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/formatter_ex_lib -BC:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/formatter_ex_lib/_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/inna2/OneDrive/Документы/ГитПроекты/Lab003_TIMP/formatter_ex_lib/_build/formatter_ex.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

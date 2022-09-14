@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\inna2\OneDrive\Документы\ГитПроекты\Lab003_TIMP\solver_lib\_build\CMakeFiles\a11846ff26c0dcf26c6ceaf5e809ee82\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E7BA983-B578-3594-81DC-231D6118923E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

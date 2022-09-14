@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\inna2\OneDrive\Документы\ГитПроекты\Lab003_TIMP\formatter_ex_lib\formatter_ex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\inna2\OneDrive\Документы\ГитПроекты\Lab003_TIMP\formatter_ex_lib\formatter_ex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\inna2\OneDrive\Документы\ГитПроекты\Lab003_TIMP\solver_application\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{287677F7-3A7B-37CD-86F0-40D0F7B5E7E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF60FE51-B6E7-3DE5-B774-BC0886C2CCA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
